@@ -131,3 +131,5 @@ print(f"{subtituloDos.text}: {resultadoDos.text}")
 print(f"{subtituloTres.text}: {resultadoTres.text}")
 
 time.sleep(5)
+
+driver.quit()
